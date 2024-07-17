@@ -1,5 +1,6 @@
 import SwiftUI
 
+// Model
 struct Data: Identifiable, Equatable {
     let id: UUID = .init()
     let value: String
