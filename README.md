@@ -1,3 +1,3 @@
 About Me:
 
-Hi, my name is Yujoo Kim.
+Hi, my name is **Yujoo Kim.**
